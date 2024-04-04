@@ -1,6 +1,7 @@
 {
   "id": "doms-custom-pack",
   "title": "Dom's Custom Pack",
+  "manifest": "https://github.com/Ingenuier/doms-custom-pack/releases/latest/download/module.json",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
